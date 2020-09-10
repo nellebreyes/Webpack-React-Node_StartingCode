@@ -1,0 +1,24 @@
+/*global styles*/
+
+body {
+  font-family: "Merriweather", "Roboto", sans-serif, serif;
+  background-color: aliceblue;
+}
+
+h2 {
+  font-family: "Sacramento", cursive;
+}
+
+/*to make sure that the images will not go over the width*/
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: $mainOrange;
+}
